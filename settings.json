@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "lucy",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+
+    "editor.rulers": [80,120],
+    "editor.formatOnSave": false,
+
+    "editor.renderLineHighlight": "gutter",
+
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+        "nunjucks": "html"
+    },
+
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "nunjucks": "html"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.shell.linux": "/bin/zsh",
+
+}
